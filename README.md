@@ -75,7 +75,7 @@ npm or yarn
 
 Hugging Face account (for token)
 1. Clone the Repository
-git clone https://github.com/yourusername/myntra-ai-clone.git
+git clone [https://github.com/yourusername/myntra-ai-clone.git](https://github.com/Saiashrita/Myntra_clone.git)
 cd myntra-ai-clone
 
 2. Setup Backend
